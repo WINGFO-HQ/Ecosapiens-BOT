@@ -86,9 +86,9 @@ The dashboard will appear and the bot will start its cycle. To stop the bot, pre
 ┌───┬────────────────────────┬──────────┬────────────────────────┬───────────────────────────┬───────┬─────────┬──────┐
 │ # │ User                   │ Points   │ Status                 │ Last Product              │ Score │ Success │ Fail │
 ├───┼────────────────────────┼──────────┼────────────────────────┼───────────────────────────┼───────┼─────────┼──────┤
-│ 1 │ Galkurta WINGFO        │ 1520     │ Success                │ Shampoo Bottle XYZ        │ 85    │ 2       │ 0    │
+│ 1 │ jawir123               │ 1520     │ Success                │ Shampoo Bottle XYZ        │ 85    │ 2       │ 0    │
 ├───┼────────────────────────┼──────────┼────────────────────────┼───────────────────────────┼───────┼─────────┼──────┤
-│ 2 │ andirap2139@gmail.com  │ 875      │ Processing... (15/30)    │ Biscuit Package ABC       │ 72    │ 1       │ 0    │
+│ 2 │ jawir1234              │ 875      │ Processing... (15/30)  │ Biscuit Package ABC       │ 72    │ 1       │ 0    │
 └───┴────────────────────────┴──────────┴────────────────────────┴───────────────────────────┴───────┴─────────┴──────┘
 
 Total Success: 3 | Total Fails: 0 | Total Accounts: 2
