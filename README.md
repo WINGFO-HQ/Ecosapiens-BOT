@@ -1,5 +1,3 @@
-Here is a `README.md` file in English based on your requirements and the functionality we have built.
-
 # Ecosapiens Bot
 
 A simple Node.js bot for automating scans on Ecosapiens. It features multi-account support and a real-time dynamic dashboard in your terminal.
